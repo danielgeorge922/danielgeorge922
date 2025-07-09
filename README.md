@@ -19,8 +19,3 @@ Computer Science student at UF passionate about full-stack development and ML/ML
 * **Languages:** Python, Java, JavaScript, TypeScript, SQL
 * **Frameworks:** React, Next.js, Node.js, PyTorch, TensorFlow
 * **Tools:** AWS, GCP, Docker, Kubernetes, Git, CI/CD
-
----
-
-### 📫 Let's Connect
-Always open to new opportunities and conversations!
