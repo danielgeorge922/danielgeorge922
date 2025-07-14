@@ -5,8 +5,6 @@
 
 Computer Science student at UF passionate about full-stack development and ML/MLOps.
 
-**Note: My commit history appears sparse because most of my work lives in private university and company repositories.**
-
 ---
 
 ### What I Build
