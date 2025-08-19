@@ -7,12 +7,6 @@ Computer Science student at UF passionate about full-stack development and ML/ML
 
 ---
 
-### What I Build
-* **Full-Stack & Design:** React/Next.js applications with focus on performance optimization
-* **Machine Learning & MLOps:** End-to-end ML systems from training to deployment
-
----
-
 ### Tech Stack
 * **Languages:** Python, Java, JavaScript, TypeScript, SQL
 * **Frameworks:** React, Next.js, Node.js, PyTorch, TensorFlow
