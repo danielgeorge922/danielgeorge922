@@ -5,6 +5,8 @@
 
 Computer Science student at UF
 
+**Note: ** A majority of my commits are made to work / private repositories
+
 ---
 
 ### Tech Stack
