@@ -3,7 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielgeorge922)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielgeorge@ufl.edu)
 
-Computer Science student at UF
+I am Computer Science student at UF and I use technology to help improve the lives of other's.
+I really enjoy full-stack development and Machine Learning
 
 Note:  A majority of my commits are made to work / private repositories
 
